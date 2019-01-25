@@ -1,1 +1,3 @@
 # hello-world
+i am priti kumari
+my branch is cse and i am studying in mce motihari...
